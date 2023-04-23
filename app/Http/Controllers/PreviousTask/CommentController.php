@@ -1,7 +1,8 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace App\Http\Controllers\PreviousTask;
 
+use App\Http\Controllers\user\Controller;
 use App\Models\Comment;
 use Illuminate\Http\Request;
 
